@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "walking-to-running-physiology",
+    "title": "10분도 못 걷지만 걷고 싶어요. 어떻게 해야 하나요?",
+    "category": "움직임·체력",
+    "publishedAt": "2026-08-03",
+    "author": "에이온 재활운동센터",
+    "sourceUrl": "https://kjp9204-oss.github.io/aonrehabcenter/posts/walking-to-running-physiology.html",
+    "url": "https://kjp9204-oss.github.io/handphysio/posts/walking-to-running-physiology.html",
+    "path": "posts/walking-to-running-physiology.html",
+    "sourceSha256": "af216bc701e4ff8a6d7a966cd14d9b7da4bf080e754102d9a8de10b1bd299a8b",
+    "targetSha256": "18807dd2308e6e81dcb76eb8e5439d70af5b92711ee13f217c314514317cd492",
+    "articleContentPreserved": true,
+    "externalImageUrls": []
+  },
+  {
+    "slug": "why-hand-feels-weak",
+    "title": "근육은 멀쩡한데 왜 손에 힘이 안 들어갈까요?",
+    "category": "손·신경",
+    "publishedAt": "2026-08-03",
+    "author": "에이온 재활운동센터",
+    "sourceUrl": "https://kjp9204-oss.github.io/aonrehabcenter/posts/why-hand-feels-weak.html",
+    "url": "https://kjp9204-oss.github.io/handphysio/posts/why-hand-feels-weak.html",
+    "path": "posts/why-hand-feels-weak.html",
+    "sourceSha256": "8002b853d71c328518f968307310423d313d644ae0506a192c0bc4c240017184",
+    "targetSha256": "b9eecc7efe9320c09222192cec1185e0ff3ea00193b39084ffac2afe07073c77",
+    "articleContentPreserved": true,
+    "externalImageUrls": []
+  },
+  {
+    "slug": "cardiorespiratory-fitness-and-chronic-pain",
+    "title": "아픈 부위만 운동하면 될까요? 통증과 심폐체력의 뜻밖의 관계",
+    "category": "통증·연구",
+    "publishedAt": "2026-08-03",
+    "author": "에이온 재활운동센터",
+    "sourceUrl": "https://kjp9204-oss.github.io/aonrehabcenter/posts/cardiorespiratory-fitness-and-chronic-pain.html",
+    "url": "https://kjp9204-oss.github.io/handphysio/posts/cardiorespiratory-fitness-and-chronic-pain.html",
+    "path": "posts/cardiorespiratory-fitness-and-chronic-pain.html",
+    "sourceSha256": "2dbb8adb4b1f15724da85fc85458d6189daf2ae994de053cf1cbdddaa706e90d",
+    "targetSha256": "cd5fb1b6cbc84f68186c41bebb20b53edf3af6d5bf872fe0aaf04ba8605bf45e",
+    "articleContentPreserved": true,
+    "externalImageUrls": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c8a2/13132283/3a2e89579dfd/painreports-11-e1447-g002.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c8a2/13132283/655ada08e14d/painreports-11-e1447-g005.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c8a2/13132283/f72de9c50732/painreports-11-e1447-g006.jpg"
+    ]
+  },
+  {
+    "slug": "lateral-elbow-tendinopathy-video-summary",
+    "title": "‘테니스엘보’를 넘어:외측 팔꿈치 건병증 이해와 관리",
+    "category": "팔꿈치",
+    "publishedAt": "2026-07-30",
+    "author": "에이온 재활운동센터",
+    "sourceUrl": "https://kjp9204-oss.github.io/aonrehabcenter/posts/lateral-elbow-tendinopathy-video-summary.html",
+    "url": "https://kjp9204-oss.github.io/handphysio/posts/lateral-elbow-tendinopathy-video-summary.html",
+    "path": "posts/lateral-elbow-tendinopathy-video-summary.html",
+    "sourceSha256": "b71151ab7005d3e3d55058f4686dcb464facefe7fe58a209fb2ff5525d9f8f29",
+    "targetSha256": "81c4a322f919ef51a951b30342e72591d8648fd6ee7cbb63aa936c5fcd3338e8",
+    "articleContentPreserved": true,
+    "externalImageUrls": []
+  },
+  {
+    "slug": "esports-athlete-rehab-load-recovery",
+    "title": "프로게이머 재활,손목을 넘어 수행으로",
+    "category": "이스포츠",
+    "publishedAt": "2026-07-30",
+    "author": "에이온 재활운동센터 · 김재필",
+    "sourceUrl": "https://kjp9204-oss.github.io/aonrehabcenter/posts/esports-athlete-rehab-load-recovery.html",
+    "url": "https://kjp9204-oss.github.io/handphysio/posts/esports-athlete-rehab-load-recovery.html",
+    "path": "posts/esports-athlete-rehab-load-recovery.html",
+    "sourceSha256": "55cb96e20fdf355101eca04794105f1ddff0fd81e5b6ad941e4bee8caf7438d5",
+    "targetSha256": "f25896947509b8c1252bfe88f537855f0d298653c60adc2bcfb6ed744c8828c6",
+    "articleContentPreserved": true,
+    "externalImageUrls": []
+  },
+  {
+    "slug": "esports-rehab-beyond-posture",
+    "title": "프로게이머 재활,자세 교정만으로 충분할까?",
+    "category": "이스포츠",
+    "publishedAt": "2026-07-29",
+    "author": "에이온 재활운동센터",
+    "sourceUrl": "https://kjp9204-oss.github.io/aonrehabcenter/posts/esports-rehab-beyond-posture.html",
+    "url": "https://kjp9204-oss.github.io/handphysio/posts/esports-rehab-beyond-posture.html",
+    "path": "posts/esports-rehab-beyond-posture.html",
+    "sourceSha256": "593b4ba1a9649be4a4fa6b208969e3ec8236f8e5c7efbe823f53185b9287f785",
+    "targetSha256": "09dba4f78de59bbf2a24373bd1fb183d887adeccea79674ba7201bf3683e4257",
+    "articleContentPreserved": true,
+    "externalImageUrls": []
+  }
+]
